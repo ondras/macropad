@@ -39,7 +39,7 @@ Used for color grading in DaVinci Resolve. Hold modifier keys (Lift / Gamma / Ga
 
 ### MIDI Tones
 
-Play individual MIDI notes. Rotary encoder adjusts octave. Scales are always C-based; use software (such as [midi-juggler](https://ondras.github.io/midi-juggler/) to transpose. Top-center button can be used to switch scales:
+Play individual MIDI notes. Rotary encoder adjusts octave. Scales are always C-based; use software (such as [midi-juggler](https://ondras.github.io/midi-juggler/)) to transpose. Top-center button can be used to switch scales:
 
   - harmonic major
   - natural minor
