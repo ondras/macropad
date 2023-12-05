@@ -50,3 +50,6 @@ Play individual MIDI notes. Rotary encoder adjusts octave. Scales are always C-b
 
 Play MIDI chord triads. Rotary encoder adjusts octave.
 
+### Elite: Dangerous
+
+Some useful keyboard shortcuts: FSD, FSS, Galaxy/system map, Ship lights/nightvision, Cold running, Cargo scoop, Landing gear

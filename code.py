@@ -8,6 +8,7 @@ from apps.desktop import Desktop
 from apps.metronome import Metronome
 from apps.demo import Demo
 from apps.midi import MidiTones, MidiChords
+from apps.elite import Elite
 
 from grid import Grid
 from absolute_mouse import AbsoluteMouse
@@ -27,7 +28,7 @@ resume()
 grid = Grid(macropad)
 macropad.grid = grid
 macropad.absolute_mouse = AbsoluteMouse(usb_hid.devices[3])
-app = MainApp(macropad, [Desktop, Demo, MidiTones, MidiChords, DavinciColor])
+app = MainApp(macropad, [Desktop, Demo, MidiTones, MidiChords, DavinciColor, Elite])
 
 
 async def loop_inputs():
