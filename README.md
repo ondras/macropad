@@ -29,6 +29,8 @@ Contains keyboard shortcuts, mostly for `git` workflows. Rotary encoder adjusts 
 
 ### DaVinci Color
 
+![macropad-davinci](https://github.com/ondras/macropad/assets/192172/88967621-0ff0-43a2-8a7a-371ef88b7e3f)
+
 Used for color grading in DaVinci Resolve. Hold modifier keys (Lift / Gamma / Gain / Offset / Saturation) and rotate the rotary encoder. Hold down both a modifier *and* a color key to perform the adjustment on one color channel.
 
 **Note:** There is no API to control DaVinci Resolve. To circumvent this, the macropad acts as an *absolute mouse hid device* and fakes mouse movement; to move individual sliders, this virtual cursor moves to their pre-computed position. This means that the functionality is dependent on:
