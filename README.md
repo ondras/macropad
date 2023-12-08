@@ -25,11 +25,13 @@ Switch individual apps by holding button #2 (top-right) and rotating the rotary 
 
 ### Desktop
 
+<img src="https://github.com/ondras/macropad/assets/192172/b3b8eb26-a0cc-4f9a-b0e3-dc2a237a3622" width="400" />
+
 Contains keyboard shortcuts, mostly for `git` workflows. Rotary encoder adjusts volume.
 
 ### DaVinci Color
 
-![macropad-davinci](https://github.com/ondras/macropad/assets/192172/88967621-0ff0-43a2-8a7a-371ef88b7e3f)
+<img src="https://github.com/ondras/macropad/assets/192172/88967621-0ff0-43a2-8a7a-371ef88b7e3f" width="400" />
 
 Used for color grading in DaVinci Resolve. Hold modifier keys (Lift / Gamma / Gain / Offset / Saturation) and rotate the rotary encoder. Hold down both a modifier *and* a color key to perform the adjustment on one color channel.
 
@@ -41,6 +43,8 @@ Used for color grading in DaVinci Resolve. Hold modifier keys (Lift / Gamma / Ga
 
 ### MIDI Tones
 
+<img src="https://github.com/ondras/macropad/assets/192172/c730dd72-af87-4e8f-b844-8f079e631820" width="400" />
+
 Play individual MIDI notes. Rotary encoder adjusts octave. Scales are always C-based; use software (such as [midi-juggler](https://ondras.github.io/midi-juggler/)) to transpose. Top-center button can be used to switch scales:
 
   - harmonic major
@@ -50,8 +54,12 @@ Play individual MIDI notes. Rotary encoder adjusts octave. Scales are always C-b
 
 ### MIDI Chords
 
+<img src="https://github.com/ondras/macropad/assets/192172/6ab730cd-6dca-4f83-a637-4c237fdbdfac" width="400" />
+
 Play MIDI chord triads. Rotary encoder adjusts octave.
 
 ### Elite: Dangerous
+
+<img src="https://github.com/ondras/macropad/assets/192172/ca8fc3df-7806-4a19-9f4d-bc126bc767ba" width="400" />
 
 Some useful keyboard shortcuts: FSD, FSS, Galaxy/system map, Ship lights/nightvision, Cold running, Cargo scoop, Landing gear
