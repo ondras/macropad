@@ -62,7 +62,7 @@ FEATURES = {
 	"saturation": {
 		"label": "Sat",
 		"x": FEATURE_X(2),
-		"y": -18,
+		"y": -1,
 		"colors": {}
 	}
 }
